@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #0066cc, #33cc99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form-container h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .login-box {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 400px;
+  }
+  
+  .login-box h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .login-box p {
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  form input[type="text"],
+  form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-options label {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .form-options a {
+    font-size: 14px;
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #444;
+  }
+  
+  .register-text {
+    margin-top: 20px;
+    text-align: center;
+    color: #666;
+  }
+  
+  .register-text a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  .register-text a:hover {
+    text-decoration: underline;
+  }
+  
