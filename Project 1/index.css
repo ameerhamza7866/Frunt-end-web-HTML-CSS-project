@@ -1,0 +1,128 @@
+
+       /* first block start  */
+
+#menu{
+    width: 100%;
+    height: 400px;
+}
+#blufont{
+    font-size: 30px;
+    color: blue;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+
+
+
+#block1{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+#pg1{
+    font-size: 20px;
+    font-weight: bold;
+    width: 48%;
+    line-height: 50px;
+    display: inline-block;
+    
+}
+#boyimg{
+    
+    width: 50%; 
+   display: inline-block;
+ 
+}
+
+
+
+#pg2{
+    margin-left: 50px;
+    margin-right: 40px;
+    font-size: 20px;
+}
+#list1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 200px;
+    line-height: 50px;
+}
+.list{
+    color: red;
+}
+
+#sub{
+    font-size: 30px;
+   margin: 40px;
+}
+#btn{
+    width: 200px;
+    height: 70px;
+    font-size: 30px;
+}
+
+#pg3{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+      /* first block end */
+
+           /* form start */
+
+#form{
+    background-color: palevioletred;
+    margin: 50px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+#underf{
+   padding: 50px; 
+}
+
+              /* form end */
+         /* bg blu block start */
+
+
+
+#bgblu{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;
+    padding: 50px;
+}
+.yellow{
+    color: yellow;
+}   
+
+     /* bg blu block end */
+       /* small img bloc start */
+
+#our{
+    margin: 50px;
+    font-size: 30px;
+}
+#img{
+    height: 900px;
+    width: 100%;
+    margin: 60px;
+}
+   /* small img bloc end */
+      /* start PG */
+
+#bigPG{
+    margin: 50px;
+    line-height: 30px;
+    font-size: 20px;
+}  
+.bold{
+    font-weight: bold;
+}
+.red{
+    color: red;
+}    
